@@ -1,4 +1,4 @@
-# A System for Monitoring Independent Living Seniors {Senior Monitoring}
+# A System for Monitoring Independent Living Seniors {#Senior Monitoring}
 
 #### Keywords
 
