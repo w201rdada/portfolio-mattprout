@@ -19,7 +19,7 @@ The data from these sensors would be uploaded to a server, which would also have
 2. Sleep pattern.  For example, sleeping too much may be a sign of illness or depression, and lack of sleep may be due to stress or a side effect of a medication.
 3. Activity (steps).  For example, if the senior stops walking as much, it might be due to an issue with mobility or a decrease in energy.
 4. Movement.  For example, increased movement to the bathroom may indicate problems urinating, and increased movement to the kitchen may indicate eating problems.  Movement information would need to be obtained from either sensors in the senior’s living space, or image recognition from video surveillance.
-5. The system could also include support an urgent call button on the fitness tracker that could summon assistance if the senior accidently fell.
+5. The system could also support an urgent call button on the fitness tracker that could summon assistance if the senior accidently fell.
 
 The alert would be sent to a call center that would contact the senior to recommend a visit to the doctor, or schedule a house call.  A web portal would be provided so that healthcare providers could view data about the patient in the context of the alert.  
 
