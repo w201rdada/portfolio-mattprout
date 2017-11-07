@@ -27,17 +27,21 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
+### Abstract: A System for Monitoring Independent Living Seniors 
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+Many Americans who are retiring opt to live in independent living facilities.  Some of these seniors live alone and do not have family who live near them.  This can be a problem if they start to have health issues and no one is there to take notice.
 
-### Abstract of my second cool idea
+The solution is a service that monitors the senior using a fitness tracker.  Information about the senior’s vital signs, sleep patterns, and movement can be monitored, and machine learning would be used to detect abnormal conditions based on the data and the user’s profile.  The system would generate an alert that would be sent to a health service and to the senior’s family with information about the event.  A nurse could then make a house call to the senior if necessary.
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
-  
-### Abstract of my third cool idea
+This solution will save seniors money by allowing them to live in independent living facilities rather than in more expensive assisted living facilities.  The system will give family members piece of mind knowing that their parents are being monitored, and will reduce healthcare costs through the early detection of medical conditions.
 
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
+### Abstract: Animal Shelter Outcome Improvement
+
+Over a million animals each year are euthanized because shelters cannot find enough people to adopt the animals they have.  Animal shelters have the desire to see that their often limited resources are spent in a way that brings the most favorable outcomes to as many animals as possible.
+
+The solution is a service that predicts the outcome of animals based on characteristics of the animal.  The service would employ a classification model that would provide recommendations on how the improve the animal of each animal, along with a probability of their outcome after the recommendation has been implemented.  This information could then guide shelters on how to direct their resources to particular animals.  A secondary feature of the service would be a web portal for people to search for pets to adopt.  This could be extended in the future to enable matching of animals with people who want to adopt.
+
+As a result of the solution, the outcome of more animals will be improved by finding homes for them, and the number of animals that are euthanized will be reduced.
 
 ## About the author
 
