@@ -2,7 +2,7 @@
 
 # put your info here and uncomment so git (and GitHub) knows who your commits belong to!
 # git config user.email "mprout@gmail.com"
-# git config user.name "Matthew Prout"
+# git config user.name "mattprout"
 
 # make sure you're on the master branch
 git checkout master
