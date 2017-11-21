@@ -27,11 +27,11 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract: A System for Monitoring Independent Living Seniors 
+### Abstract: Senior Sentry Service
 
-Many Americans who are retiring opt to live in independent living facilities.  Some of these seniors live alone and do not have family who live near them.  This can be a problem if they start to have health issues and no one is there to take notice.
+Many Americans who are retiring opt to live in independent living facilities.  Serious issues can arise if they start to have health issues and no one is there to take notice.
 
-The solution is a service that monitors the senior using a fitness tracker.  Information about the senior’s vital signs, sleep patterns, and movement can be monitored, and machine learning would be used to detect abnormal conditions based on the data and the user’s profile.  The system would generate an alert that would be sent to a health service and to the senior’s family with information about the event.  A nurse could then make a house call to the senior if necessary.
+The solution is the Senior Sentry Service that monitors the senior using a fitness tracker.  Information about the senior’s vital signs, sleep patterns, and movement can be monitored, and machine learning would be used to detect abnormal conditions based on the data and the user’s profile.  The system generates an alert that is sent to a health service with information about the event.  A nurse could then make a house call to the senior if necessary, and also contact the senior's family.
 
 This solution will save seniors money by allowing them to live in independent living facilities rather than in more expensive assisted living facilities.  The system will give family members piece of mind knowing that their parents are being monitored, and will reduce healthcare costs through the early detection of medical conditions.
 
