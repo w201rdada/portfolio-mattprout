@@ -1,28 +1,49 @@
-# A System for Monitoring Independent Living Seniors {#Senior Monitoring}
+# A System for Monitoring Independent Living Seniors {#Senior-Monitoring} <!--service or brand name?-->
 
 #### Keywords
-Senior citizen, independent living, monitoring, early detection
+Senior citizen, independent living, monitoring, early detection <!--add tech keywords-->
 
-## Problem Statement
+## Problem Statement <!--more informative headings-->
 
-More and more Americans aged 65 and older are retiring. The current trend is driven by the Baby Boom generation reaching retirement age.  Many of these seniors would like to not have the responsibility of a house, but want to live in a socially engaging environment, such as an independent living facility.  Among this group of seniors are those who live alone or may not have family who live near them.  This can be a problem if those seniors start to have health issues, and no one is there to take notice.  The problem is to find a way for these individuals to live independently, but have a system (requiring minimal effort on the part of the senior) where someone could be alerted if their health condition takes a turn for the worse.
+More and more Americans aged 65 and older are retiring. 
+The current trend is driven by the Baby Boom generation reaching retirement age. <!--numbers to describe the trend?-->
+Many of these seniors would like to not have the responsibility of a house, but want to live in a socially engaging environment, such as an independent living facility. 
+Among this group of seniors are those who live alone or may not have family who live near them. <!--how big a share is this segment? also, doesn't this narrow your audience too much?-->
+This can be a problem if those seniors start to have health issues, and no one is there to take notice. 
+The problem is to find a way for these individuals to live independently, but have a system (requiring minimal effort on the part of the senior) where someone could be alerted if their health condition takes a turn for the worse. <!--clear concept, who is the client?-->
 
 ## Proposed Solution
 
-A possible solution to this is to create a service that automatically tracks the vital signs and habits of senior adults in their living situation, and combined with a medical profile of the senior, uses machine learning to detect abnormal conditions or behaviors, and generates alerts that notify a call center to follow up.
+XYZ is a service that automatically tracks the vital signs and habits of senior adults in their living situation, and combined with a medical profile of the senior, uses machine learning to detect abnormal conditions or behaviors, and generates alerts that notify a call center to follow up.
 
-Fitness tracker technology currently exists to monitor the wearer’s steps, heart rate, temperature, and sleep patterns.  Some variation of this technology could be worn by the senior, although this would require the senior to agree to wear the monitor 24 hours a day.   The movement of the senior in their apartment could be achieved by sensors or video surveillance in each room.  Note that the living facility would be responsible for owning and maintaining the monitoring infrastructure, but seniors would need to subscribe to the service.
+Fitness tracker technology currently exists to monitor the wearer’s steps, heart rate, temperature, and sleep patterns. 
+Some variation of this technology could be worn by the senior, although this would require the senior to agree to wear the monitor 24 hours a day. 
+The movement of the senior in their apartment could be achieved by sensors or video surveillance in each room. <!--privacy? could the wearable do the same?-->
+Note that the living facility would be responsible for owning and maintaining the monitoring infrastructure, but seniors would need to subscribe to the service.
 
-The data from these sensors would be uploaded to a server, which would also have medical information about the senior. Per the regulations governing HIPAA, seniors would need to agree to have the service disclose protected healthcare information (PHI) to healthcare providers, and the service would need to follow the key elements of HIPAA when processing PHI.  The server would then perform analytics that would generate alerts based on abnormal conditions related to the following parameters:
+The data from these sensors would be uploaded to a server, which would also have medical information about the senior. 
+Per the regulations governing HIPAA, seniors would need to agree to have the service disclose protected healthcare information (PHI) to healthcare providers, and the service would need to follow the key elements of HIPAA when processing PHI. <!--Good that you raise this, and the details can be described upon expansion.-->
+The server would then perform analytics that would generate alerts based on abnormal conditions related to the following parameters: <!--great specificity-->
 
-1. Vital signs (heart rate, temperature).  For example, abnormal heart rates may be related to the senior’s medical history or current medication, and abnormal temperature may indicate a fever.
-2. Sleep pattern.  For example, sleeping too much may be a sign of illness or depression, and lack of sleep may be due to stress or a side effect of a medication.
-3. Activity (steps).  For example, if the senior stops walking as much, it might be due to an issue with mobility or a decrease in energy.
-4. Movement.  For example, increased movement to the bathroom may indicate problems urinating, and increased movement to the kitchen may indicate eating problems.  Movement information would need to be obtained from either sensors in the senior’s living space, or image recognition from video surveillance.
-5. The system could also support an urgent call button on the fitness tracker that could summon assistance if the senior accidently fell.
+1. Vital signs (heart rate, temperature). 
+For example, abnormal heart rates may be related to the senior’s medical history or current medication, and abnormal temperature may indicate a fever. <!--Would the norms vary by person? Could the same reading be healthy for one person and dangerous for another? How could a personal range be established?-->
+2. Sleep pattern. 
+For example, sleeping too much may be a sign of illness or depression, and lack of sleep may be due to stress or a side effect of a medication.
+3. Activity (steps). 
+For example, if the senior stops walking as much, it might be due to an issue with mobility or a decrease in energy. <!--A lot can be done here, even without the other kinds of  monitoring.-->
+4. Movement. 
+For example, increased movement to the bathroom may indicate problems urinating, and increased movement to the kitchen may indicate eating problems. <!--Implies geotagging the space of the apartment as well. Unless the room category itself could be inferred by movement.-->
+Movement information would need to be obtained from either sensors in the senior’s living space, or image recognition from video surveillance. <!--wifi may be enough-->
+5. The system could also support an urgent call button on the fitness tracker that could summon assistance if the senior accidently fell. <!--because trained to recognize the event of falling? or because the senior pressed the panic?-->
 
-The alert would be sent to a call center that would contact the senior to recommend a visit to the doctor, or schedule a house call.  A web portal would be provided so that healthcare providers could view data about the patient in the context of the alert.  
+The alert would be sent to a call center that would contact the senior to recommend a visit to the doctor, or schedule a house call. <!--contact through the wearable?-->
+A web portal would be provided so that healthcare providers could view data about the patient in the context of the alert. <!--would doctors also be alerted? what do you mean here?-->
+
 
 ## A Step Forward
 
-The proposed solution is a step toward monitoring the health of seniors living independently. The system is designed to proactively alert medical personnel of health conditions, so that an intervention can be done prior to it becoming a medical emergency.  Obstacles with this solution may include HIPAA regulations with the use of user’s medical histories, and the limited set of measurements that the system can perform. Despite the limitations, this solution should improve the lives of seniors, give their families peace of mind, and reduce healthcare costs through early detection.
+The proposed solution is a step toward monitoring the health of seniors living independently. 
+The system is designed to proactively alert medical personnel of health conditions, so that an intervention can be done prior to it becoming a medical emergency. 
+Obstacles with this solution may include HIPAA regulations with the use of user’s medical histories, and the limited set of measurements that the system can perform. 
+Despite the limitations, this solution should improve the lives of seniors, give their families peace of mind, and reduce healthcare costs through early detection.
+<!--A fine summary, but the ending should be client focused. The client is not yet clear, though it seems to be the assisted living center primarily, and the senior secondarily.-->
