@@ -12,7 +12,7 @@ bookdown::gitbook:
         <li><a href="./">Matthew Prout</a></li>
       after: |
         <li><a href="https://github.com/w201rdada/portfolio-mattprout/" target="blank">GitHub</a></li>
-        <li><a href="https://www.ischool.berkeley.edu/people/oski-bear" target="blank">UC Berkeley</a></li>
+        <li><a href="https://www.ischool.berkeley.edu/people/matthew-prout" target="blank">UC Berkeley</a></li>
     sharing:
       facebook: no
       twitter: no
