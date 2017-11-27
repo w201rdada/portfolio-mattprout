@@ -35,8 +35,4 @@ The solution is a service that predicts the outcome of animals based on characte
 
 As a result of the solution, the outcome of more animals will be improved by finding homes for them, and the number of animals that are euthanized will be reduced.
 
-## About the author {-}
-
-TODO
-
 *Updated: `r Sys.Date()`*
